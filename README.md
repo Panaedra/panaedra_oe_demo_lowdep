@@ -15,7 +15,7 @@ Do not depend on the code in this repo. It may be outdated or even fall over, an
 1. Run the lowdep test procedure:
     ```bash
     cd ~
-    . /usr/bin/dlc117/bin/proenv
+    /usr/bin/dlc117/bin/proenv
     # Propath explained:
     #   (1) root path of gcc compiled shared object,
     #   (2) root path of test namespace,
