@@ -1,6 +1,6 @@
 # Demonstration of the Paneadra Python Bridge from the Progress OpenEdge ABL
 
-This demo is marked as `lowdep`, meaning **Low on Dependencies**. This means that it is not dependant on the real Panaedra OpenEdge Platform.
+This demo is marked as `lowdep`, meaning **Low on Dependencies**. This means that it is not dependant on the real Panaedra OpenEdge Platform (panaedra_oe_platform_base). It is only dependant on [panaedra_c_pythonbridge](https://github.com/Panaedra/panaedra_c_pythonbridge).
 
 This lowdep demo is useful for demonstration purposes: You see the pure interaction with the Python Bridge.
 
